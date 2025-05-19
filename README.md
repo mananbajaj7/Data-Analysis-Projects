@@ -4,6 +4,15 @@ A curated collection of data analysis and data science projects using Python, SQ
 
 ---
 
+## 🎶 Media Music SQL Project
+
+* Refactored raw schema into 3NF (`Artists`, `Albums`, `Tracks`, `Genres`, `MediaType`)
+* Cleaned and validated data using temp + cleaned tables
+* Normalized date fields and enforced constraints
+* Created analytical queries for artist popularity, genre distribution, and track playtime
+* Implemented indexing and used `EXPLAIN QUERY PLAN` to optimize query performance
+* Introduced `MediaType` logic to classify track formats by duration
+
 ## 🏥 [Revenue Loss Analysis – Clipboard Healthcare](https://github.com/mananbajaj7/Revenue-Loss-Analysis-Healthcare)
 
 
