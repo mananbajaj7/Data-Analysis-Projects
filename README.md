@@ -1,6 +1,6 @@
 # 📊 Data Analyst Portfolio
 
-A curated collection of data analysis and data science projects using Python, SQL, Excel, Power BI, and Machine Learning.
+A curated collection of data analysis and data science projects using Python, SQL, Excel, and Power BI
 
 ---
 
@@ -30,24 +30,7 @@ A curated collection of data analysis and data science projects using Python, SQ
 
 ---
 
-## 🏀 [NBA Game Prediction with Sentiment Analysis](https://github.com/unfiltered-syrup/NBA_Analysis)
-
-
-* Built LSTM models to predict NBA game outcomes using game stats.
-* Fine-tuned a RoBERTa model to analyze Twitter sentiment and integrate it with game data.
-* Applied AutoML and hyperparameter tuning to improve accuracy and reduce overfitting.
-
----
-
-## 🎵 [Music Genre Classification](https://github.com/mananbajaj7/Music_Genre_Classification)
-
-
-* Preprocessed dataset by encoding, normalization, and PCA for dimensionality reduction.
-* Trained and optimized XGBoost classifier with RandomizedSearchCV and cross-validation.
-
----
-
 ## 🔧 Coming Soon...
 
-Additional projects on SQL Data Warehousing, Business Dashboards, and ML modeling to be added.
+Additional projects on SQL Data Warehousing, and more Business Dashboards, and ML modeling to be added.
 
