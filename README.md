@@ -4,7 +4,7 @@ A curated collection of data analysis and data science projects using Python, SQ
 
 ---
 
-## 🎶 Media Music SQL Project
+## 🎶 [Media Music SQL Project](https://github.com/mananbajaj7/SQL-Music-DB/tree/main )
 
 * Refactored raw schema into 3NF (`Artists`, `Albums`, `Tracks`, `Genres`, `MediaType`)
 * Cleaned and validated data using temp + cleaned tables
