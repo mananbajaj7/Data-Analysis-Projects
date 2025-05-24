@@ -29,7 +29,24 @@ A curated collection of data analysis and data science projects using Python, SQ
 * Identified evolving trends in the retail labor market and workforce dynamics.
 * Created a comprehensive report and data-driven newsletter.
 
+
 ---
+
+## 🏭 [Sales Data Warehouse Analytics](https://github.com/mananbajaj7/Sales_Data_Warehouse_Analytics)
+
+Built a sales reporting system using dimensional modeling (fact/dimension tables).
+Segmented customers by behavior and products by revenue performance using SQL.
+
+* Created customer and product reports with over 10 business KPIs.
+* Segmented customers into VIP, Regular, and New using lifespan and purchase value.
+* Identified top-performing products by revenue, quantity sold, and order frequency.
+* Calculated KPIs: Recency, Customer Lifespan, AOV, Monthly Spend, and Product Lifecycle.
+* Used window functions (`OVER`, `LAG`, `AVG`) and date logic for trend analysis and YOY growth.
+* Delivered insights on loyalty, purchase patterns, and product contribution to revenue.
+
+---
+
+
 
 ## 🔢 [Data Professionals Survey Analysis](https://github.com/mananbajaj7/Data-Professionals-Survey-Analysis)
 
